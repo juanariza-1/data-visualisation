@@ -1,5 +1,7 @@
 # Population maps and the 2022 Italian heatwave
 
+**[View the rendered report online](https://juanariza-1.github.io/data-visualisation/)**
+
 **Authors:** Juan Esteban Londono and Juan Pablo Ariza  
 **Course:** Data Visualisation  
 **Original report date:** 25 March 2026
