@@ -1,0 +1,10 @@
+* text=auto
+*.R text eol=lf
+*.Rmd text eol=lf
+*.md text eol=lf
+*.html -text
+*.csv -text
+*.rds -text
+*.nc -text
+*.png -text
+*.pdf -text

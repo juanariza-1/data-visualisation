@@ -1,0 +1,27 @@
+# Local R sessions and rendering caches
+.RData
+.Rhistory
+.Rproj.user/
+*_cache/
+*_files/
+reports/report.html
+reports/report-interactive.html
+report.html
+report-interactive.html
+
+# NHGIS inputs and generated spatial objects require local retrieval
+data/private/*
+!data/private/.gitkeep
+*.rds
+
+# Private account configuration
+.Renviron
+.env
+.env.*
+.cdsapirc
+*.pem
+*.key
+
+# Operating-system files
+.DS_Store
+Thumbs.db
