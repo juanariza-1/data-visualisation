@@ -1,6 +1,12 @@
 # Population maps and the 2022 Italian heatwave
 
-**[View the rendered report online](https://juanariza-1.github.io/data-visualisation/)**
+[![View the full report](assets/view-report.svg)](https://juanariza-1.github.io/data-visualisation/)
+
+<a href="https://juanariza-1.github.io/data-visualisation/">
+  <img src="assets/report-preview.png" alt="County population dashboard screenshot from the final report." width="760">
+</a>
+
+*Click the button or preview to open the complete report with its saved figures and results.*
 
 **Authors:** Juan Esteban Londono and Juan Pablo Ariza  
 **Course:** Data Visualisation  
